@@ -1,0 +1,418 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500&display=swap');
+
+    * {
+        margin:0;
+        padding:0;
+    }
+
+.header {   
+
+    margin-top: 12px;
+    margin-left: 550px;
+    display: flex;
+}
+
+.mid a:hover {
+    color: olive;
+}
+.responsive {
+    
+    margin-top: 10px;
+    margin-left: 550px;
+    display: flex;
+
+  }
+
+  .responsive1 {
+    margin-top: -513px;
+    margin-left: 840px;
+    display: flex;
+  }
+  .responsive2 {
+    margin-top: -255px;
+    margin-left: 1102px;
+    display: flex;
+  }
+  .responsive3 {
+    margin-top: 5px;
+    margin-left: 840px;
+    display: flex;
+  }
+  .responsive4 {
+    margin-top: -255px;
+    margin-left: 1102px;
+    display: flex;
+  }
+  .foot {
+    margin-top: 10px;
+    margin-left: 550px;
+    display: flex;
+  }
+  .foot1 img {   
+
+    margin-top: 260px;
+    margin-left: -800px;
+    transform: scaleX(-1);
+}
+.logo {
+    display: flex;
+    margin-left: -765px;
+}
+.gallery1 h1 a {
+    text-decoration: none;
+    position: absolute;
+    margin-left: -90px;
+    margin-top: -500px;
+    font-family: 'Poppins';
+    color: #574149;
+    font-size: 30px;
+}
+.gallery1 h1 a:hover {
+    color: goldenrod;
+    transition: 0.5s;
+}
+.gallery2 h1 a {
+    text-decoration: none;
+    position: absolute;
+    margin-left: -100px;
+    margin-top: -250px;
+    font-family: 'Poppins';
+    color: #574149;
+    font-size: 20px;
+}
+.gallery2 h1 a:hover {
+    color: goldenrod;
+    transition: 0.5s;
+}
+.gallery3 h1 a {
+    text-decoration: none;
+    position: absolute;
+    margin-left: -100px;
+    margin-top: -250px;
+    font-family: 'Poppins';
+    color: #574149;
+    font-size: 30px;
+}
+.gallery3 h1 a:hover {
+    color: goldenrod;
+    transition: 0.5s;
+}
+.gallery4 h1 a {
+    text-decoration: none;
+    position: absolute;
+    margin-left: -100px;
+    margin-top: -250px;
+    font-family: 'Poppins';
+    color: #574149;
+    font-size: 30px;
+}
+.gallery4 h1 a:hover {
+    color: goldenrod;
+    transition: 0.5s;
+}
+
+.gallery5 h1 a {
+    text-decoration: none;
+    position: absolute;
+    margin-left: -100px;
+    margin-top: -230px;
+    font-family: 'Poppins';
+    color: #574149;
+    font-size: 30px;
+}
+.gallery5 h1 a:hover {
+    color: goldenrod;
+    transition: 0.5s;
+}
+.gallery6 h1 {
+    text-decoration: none;
+    position: absolute;
+    margin-left: 50px;
+    font-family: 'Poppins';
+    color: black;
+    font-size: 20px;
+}
+.gallery10 h1 {
+    text-decoration: none;
+    position: absolute;
+    margin-left: -700px;
+    margin-top: 50px ;
+    font-family: Arial, Helvetica, sans-serif  ;
+    color: black;
+    font-size: 15px;
+}
+.gallery11 h1 {
+    text-decoration: none;
+    position: absolute;
+    margin-left: -700px;
+    margin-top: 80px ;
+    font-family: Arial, Helvetica, sans-serif  ;
+    color: black;
+    font-size: 15px;
+    
+}
+.gallery12 h1 {
+    text-decoration: none;
+    position: absolute;
+    margin-left: -700px;
+    margin-top: 110px ;
+    font-family: Arial, Helvetica, sans-serif  ;
+    color: black;
+    font-size: 15px;
+}
+.gallery13 h1 {
+    text-decoration: none;
+    position: absolute;
+    margin-left: -700px;
+    margin-top: 140px ;
+    font-family: Arial, Helvetica, sans-serif ;
+    color: black;
+    font-size: 15px;
+}
+.gallery14 h1 {
+    text-decoration: none;
+    position: absolute;
+    margin-left: -700px;
+    margin-top: 170px ;
+    font-family: Arial, Helvetica, sans-serif  ;
+    color: black;
+    font-size: 15px;
+}
+.gallery15 h1 {
+    text-decoration: none;
+    position: absolute;
+    margin-left: -725px;
+    margin-top: 305px ;
+    font-family: Arial, Helvetica, sans-serif  ;
+    color: black;
+    font-size: 15px;
+}
+.gallery16 h1 {
+    text-decoration: none;
+    position: absolute;
+    margin-left: -725px;
+    margin-top: 365px ;
+    font-family: Arial, Helvetica, sans-serif  ;
+    color: black;
+    font-size: 15px;
+}
+.gallery17 h1 {
+    text-decoration: none;
+    position: absolute;
+    margin-left: -725px;
+    margin-top: 430px ;
+    font-family: Arial, Helvetica, sans-serif  ;
+    color: black;
+    font-size: 15px;
+}
+.gallery18 img {
+    display: flex;
+    position: absolute;
+    margin-left: -800px;
+    margin-top: 290px ;
+}
+.gallery19 img {
+    display: flex;
+    position: absolute;
+    margin-left: -800px;
+    margin-top: 350px ;
+}
+.gallery70 img {
+    display: flex;
+    position: absolute;
+    margin-left: -800px;
+    margin-top: 420px ;
+}
+.text-wrapp1 h1 a {
+    text-decoration: none;
+    position: absolute;
+    margin-left: -250px;
+    margin-top: -240px;
+    font-family: 'Poppins';
+    color: #f6b7cf;
+    font-size: 22px;
+}
+.text-wrapp1 h1 a:hover{
+    color: wheat;
+}
+.txt4 h1 a {
+    text-decoration: none;
+    position: absolute;
+    margin-left: -350px;
+    margin-top: -240px;
+    font-family: 'Poppins';
+    color: #f6b7cf;
+    font-size: 22px;
+}
+.txt4 h1 a:hover{
+    color: wheat;
+}
+.txt1 h1 a {
+    text-decoration: none;
+    position: absolute;
+    margin-left: -100px;
+    margin-top: -240px;
+    font-family: 'Poppins';
+    color: #f6b7cf;
+    font-size: 22px;
+}
+.txt1 h1 a:hover{
+    color: wheat;
+}
+.txt2 h1 a:hover{
+    color: wheat;
+}
+.txt2 h1 a {
+    text-decoration: none;
+    position: absolute;
+    margin-left: 100px;
+    margin-top: -240px;
+    font-family: 'Poppins';
+    color: #f6b7cf;
+    font-size: 22px;
+}
+.txt3 h1 a {
+    text-decoration: none;
+    position: absolute;
+    margin-left: 220px;
+    margin-top: -240px;
+    font-family: 'Poppins';
+    color: #f6b7cf;
+    font-size: 22px;
+}
+.txt3 h1 a:hover{
+    color: wheat;
+}
+.icon {
+    display: flex;
+    margin-top: 8px;
+    margin-left: 400px;
+}
+.quote h1 {
+    text-decoration: none;
+    position: absolute;
+    font-family: 'Poppins';
+    font-style: italic;
+    color: white;
+    margin-top: 200px;
+    margin-left: -700px;
+    font-size: 22px;
+}
+.gallery27 img{
+    margin-top: 1px;
+    margin-left: 1px;
+    display: flex;
+    
+}
+.gallery28 h1{
+    text-decoration: none;
+    position: absolute;
+    margin-left: 600px;
+    margin-top: -280px;
+    font-family: Arial, Helvetica, sans-serif ;
+    color: black;
+    font-size: 20px;
+    display: flex;
+    text-align: center;
+    letter-spacing: 4px;
+}
+.gallery27 h1{
+    text-decoration: none;
+    position: absolute;
+    margin-left: 625px;
+    margin-top: -190px;
+    font-family: Arial, Helvetica, sans-serif ;
+    color: black;
+    font-size: 20px;
+    display: flex;
+    text-align: center;
+    letter-spacing: 4px;
+}
+
+.gallery23 img {
+    margin-left: 410px;
+    margin-top: 525px;
+    display: flex;
+}
+.box img {
+    margin-top: 10px;
+    margin-left: 400px;
+    display: flex;
+}
+.gallery22 img {
+    margin-left: -410px;
+    margin-top: -279px;
+    display: flex;
+}
+.gallery24 img {
+    margin-left: -410px;
+    margin-top: 19px;
+    display: flex;
+}
+.gallery25 img {
+    margin-left: 410px;
+    margin-top: -280px;
+    display: flex;
+    padding-bottom: 10px;
+}
+.gallery21 img {
+    margin-left: 410px;
+    margin-top: -280px;
+    display: flex;
+}
+.gallery31 img {
+    margin-left: 410px;
+    margin-top: -280px;
+}
+.box1 h1{
+    text-decoration: none;
+    position: absolute;
+    margin-left: 1000px;
+    margin-top: -540px;
+    font-family: Arial, Helvetica, sans-serif ;
+    color: black;
+    font-size: 20px;
+    display: flex;
+    text-align: center;
+    word-spacing: 2.5px;
+    letter-spacing: 2px;
+}
+.gallery26 h1{
+    text-decoration: none;
+    position: absolute;
+    margin-left: 600px;
+    margin-top: -550px;
+    font-family: Arial, Helvetica, sans-serif ;
+    color: black;
+    font-size: 20px;
+    display: flex;
+    text-align: center;
+    word-spacing: 2.5px;
+    letter-spacing: 2px;
+}
+.box2 h1{
+    text-decoration: none;
+    position: absolute;
+    margin-left: 650px;
+    margin-top: -245px;
+    font-family: Arial, Helvetica, sans-serif ;
+    color: black;
+    font-size: 20px;
+    display: flex;
+    text-align: center;
+    word-spacing: 2.5px;
+    letter-spacing: 2px;
+}
+.box3 h1{
+    text-decoration: none;
+    position: absolute;
+    margin-left: 1020px;
+    margin-top: -270px;
+    font-family: Arial, Helvetica, sans-serif ;
+    color: black;
+    font-size: 20px;
+    display: flex;
+    text-align: center;
+    word-spacing: 2.5px;
+    letter-spacing: 2px;
+}
